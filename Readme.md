@@ -1,6 +1,5 @@
 # About the Project
-https://cohort-2-assignment2.netlify.app/
-
+https://curser-ui-clone-git-main-akhil-tiwaris-projects-ddbb90b7.vercel.app/
 This project is a **modern, responsive landing page** for a SaaS/product platform. It includes the following sections and features:
 
 ## 1. Top Navigation Bar
